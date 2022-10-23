@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-J400F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OLE</MultiCode>
+    <CustomerDataSet>
+        <CSCName>J400FOLE</CSCName>
+        <CSCVersion>9CUJ4</CSCVersion>
+        <NbCustomer>1</NbCustomer>
+        <CustomerData src="/Customer/XID/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>XID</CustomerCode>
+            <Version>SAOMC_SM-J400F_OLE_XID_QQ_0001</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+            <Packages>
+                <package name="com.srin.garut" />
+                <package name="com.opera.max.oem" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+                <package name="com.samsung.android.carriermatching" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

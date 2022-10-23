@@ -1,0 +1,2 @@
+/odm/priv-app/GPT_SamsungPay_issuerprod_release_1288/GPT_SamsungPay_issuerprod_release_1288.apk
+/odm/priv-app/SamsungGiftIndonesia_v3.7.1/SamsungGiftIndonesia_v3.7.1.apk
